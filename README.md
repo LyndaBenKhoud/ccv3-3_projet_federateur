@@ -5,3 +5,5 @@ liste de présent 1 ére séance:
 - Boufateh Ala
 - frioui jaweher
 - mohamed taher ounissi
+
+- Lynda Ben Khoud
